@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Dziala test 2 !\n";
+    std::cout << "Test scalania!\n";
+
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
