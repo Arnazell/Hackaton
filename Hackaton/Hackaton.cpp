@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Dziala test 2 !\n";
-    std::cout << "dzialajacy Test drugiego scalania!\n";
+    std::cout << "scalania!\n";
     std::cout << "Emergency!!!!\n";
 }
 
