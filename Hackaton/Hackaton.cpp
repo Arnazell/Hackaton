@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Dziala !\n";
+    std::cout << "Dziala test 2 !\n";
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
